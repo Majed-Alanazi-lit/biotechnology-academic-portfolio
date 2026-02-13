@@ -7,4 +7,5 @@ Floristic Diversity of Weed Species in Agricultural Farms of the Tabuk Region, S
 Single-Cell Protein as a Biotechnology Strategy for Food System Resilience in Saudi Arabia
 Genetic Variation in Drug-Metabolizing Enzymes and Its Impact on Drug Response
 The Role of Bioinformatics in Modern Biotechnology
+
 These works were prepared to strengthen literature analysis, scientific writing, and domain understanding in genomics, pharmacogenomics, and applied biotechnology.
