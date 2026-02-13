@@ -1,5 +1,5 @@
 # Biotechnology Academic Portfolio
-This repository contains selected independent academic papers and literature-based mini-reviews prepared in anticipation of graduate study in biotechnology.
+This repository contains selected independent academic papers and literature-based mini-reviews
 
 Included Works
 
